@@ -1,4 +1,1 @@
-- Search for 'TODO' in whole project
-    - Adapt them
-- Remove all unused libraries
-- Remove HelloWorld test classes
+In this project you find a setup for a Java project with Maven. 
